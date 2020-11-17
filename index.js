@@ -17,10 +17,10 @@ const menu = require("./lib/menu.js");
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'ALF BOT'; 
-const instagram = 'https://instagram.com/aditiaalfians'; 
-const whatsapp = 'wa.me/6285799496179'; 
-const kapanbotaktif = '24 JAM'; 
+const BotName = 'Akbar Bot✓'; 
+const instagram = 'https://instagram.com/kamaadoo_tanjiroo'; 
+const whatsapp = 'wa.me/6281368965962'; 
+const kapanbotaktif = 'tergantung'; 
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
